@@ -3,7 +3,7 @@ draft: false
 title: "Travel and Accommodation"
 ---
 
-**Please fly into Daniel K. Inouye International Airport (Honolulu Internation Airport HNL). We recommend arriving either Tuesday, March 5th or Wednesday March 6th.**
+**Please fly into Honolulu Internation Airport HNL (Daniel K. Inouye International Airport). We recommend arriving either Tuesday, March 5th or Wednesday March 6th.**
 
 <br>
 
