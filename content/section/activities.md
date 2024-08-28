@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Dress"
+title: "Activities"
 ---
 ## Attire:
 **Resort Evening Wear** 
