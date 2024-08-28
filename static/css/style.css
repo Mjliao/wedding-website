@@ -35,7 +35,7 @@ html {
 
 /* VARIABLES */
 :root {
-  --main-font: 'Canela Regular', sans-serif;
+  --main-font: 'Noto Sans', sans-serif;
   --cream: #FFFFFF;
   --light-green: #BBDED6;
   --dark-green: #E3EDE4;
@@ -248,6 +248,7 @@ html {
   text-transform: uppercase;
   letter-spacing: 5px;
   text-decoration: none;
+  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
 
 /* No divider after last link in the menu */
@@ -262,9 +263,9 @@ html {
   text-align: center;
   padding: 0 0.5rem;
   width: -webkit-fill-available;
-
   color: var(--black);
   text-decoration: none;
+  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
 
 .nav-desktop__link:hover {
