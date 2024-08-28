@@ -80,7 +80,6 @@ html {
   text-shadow: var(--dark-green) 2px 2px 0px;
   letter-spacing: 2px;
   height: 100vh;
-  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
 
 
@@ -248,7 +247,6 @@ html {
   text-transform: uppercase;
   letter-spacing: 5px;
   text-decoration: none;
-  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
 
 /* No divider after last link in the menu */
@@ -265,7 +263,6 @@ html {
   width: -webkit-fill-available;
   color: var(--black);
   text-decoration: none;
-  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
 
 .nav-desktop__link:hover {
