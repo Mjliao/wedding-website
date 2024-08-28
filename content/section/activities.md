@@ -21,48 +21,60 @@ More info <a href="https://www.kaimana.com/">Kaimana Club Pass</a>
 
 ## Snorkeling:
 
-**-Kaimana Beach**
+**Kaimana Beach:** A laid-back spot perfect for snorkeling with calm, clear waters.
 
-**-Hanauma Bay**
+**Hanauma Bay:** A world-famous snorkeling destination in a protected marine life conservation area.
 
-**-Turtle Canyon**
+**Turtle Canyon:** Snorkel alongside Hawaiian green sea turtles in this popular offshore reef.
+
 
 ## Surfing:
 
-**-Waikiki Beach** 
+**Waikiki Beach:** Ideal for beginners, offering gentle waves and iconic surf culture.
 
 ## Hiking:
 
-**-Pillbox** 
+**Pillbox (Lanikai Pillbox Trail):** A scenic hike offering panoramic views of Lanikai Beach and the Mokulua Islands.
+
+**Diamond Head Crater:** A must-do hike leading to spectacular views of Honolulu and the Pacific Ocean.
+
+**Makapu’u Point Lighthouse Trail:** A relatively easy hike offering stunning coastal views and whale watching in season.
+
+**Manoa Falls:** A lush rainforest hike leading to a beautiful 150-foot waterfall.
 
 ## Beaches:
 
-**-Kaimana Beach**
+**Kaimana Beach:** A tranquil beach perfect for swimming and relaxing.
 
-**-Waikiki Beach**
+**Waikiki Beach:** The most famous beach in Hawaii, known for its vibrant atmosphere and surf-friendly waves.
 
-**-Sandy Beach**
+**Sandy Beach:** Known for its strong waves, it's a favorite for experienced bodyboarders.
 
-**-Pipeline** 
+**Pipeline (Banzai Pipeline):** A legendary surf spot with some of the most powerful waves in the world.
 
-**-Lanikai Beach**
+**Lanikai Beach:** A serene, picturesque beach with soft sand and crystal-clear waters.
 
 ## Things to do:
 
-**-Kualoa Ranch:** See the site where Jurassic Park was filmed! Take an ATV tour or golf-cart tour to see the island upclose. 
+**If you are interested in these activities please look up and book them in advance.**
 
-**-Pearl Harbor Memorial:** Historical site. Make sure to make reservations early!
+**Kualoa Ranch:** Explore the iconic filming locations of Jurassic Park with exciting ATV or golf-cart tours.
 
-**-Battle ship Missouri Memorial**
+**Pearl Harbor Memorial:** A poignant historical site, offering insight into WWII; reservations recommended.
 
-**-Waimea Valley**
+**Battleship Missouri Memorial:** Walk the decks of the famous battleship where WWII officially ended.
 
-**-Ho’omaluhia Botanical Garden**
+**Waimea Valley:** A lush, cultural experience with a scenic waterfall hike and botanical garden.
 
-**-Nu’uanu Pali Lookout**
+**Ho’omaluhia Botanical Garden:** A peaceful retreat with stunning views and diverse plant collections.
 
-**-Byodo-In Temple**
+**Nu’uanu Pali Lookout:** A breathtaking viewpoint offering panoramic vistas of Oahu’s windward coast.
 
-**-Dole Plantation**
+**Byodo-In Temple:** A serene, Japanese-style temple nestled in the Ko'olau Mountains.
 
+**Dole Plantation:** Discover the history of Hawaii’s pineapple industry with fun train rides and a giant maze.
+
+**Polynesian Cultural Center:** An immersive cultural experience showcasing the traditions and dances of Polynesia.
+
+**North Shore Shark Cage Dive:** An exhilarating adventure that brings you up close with sharks in their natural habitat.
 
