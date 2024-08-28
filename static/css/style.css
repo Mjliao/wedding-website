@@ -79,9 +79,10 @@ html {
   color: var(--black);
   text-shadow: var(--dark-green) 2px 2px 0px;
   letter-spacing: 2px;
-
   height: 100vh;
+  font-family: 'Playfair Display', serif; /* Use the elegant font here */
 }
+
 
 .header-svg {
   width: auto;
