@@ -18,7 +18,7 @@ Location: Sandy Beach, South East shore
 
 ## 10:30am - Reception
 
-Kaimana Beach Restaurant
+Hau Tree Beach Restaurant
 
 ## 3:00pm - Celebrate
 

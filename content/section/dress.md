@@ -9,4 +9,4 @@ title: "Dress"
 **Men:**
 Slacks (no jeans please), button-front shirts (Hawaiian, linen, or resort style), closed-toe shoes.  No jacket necessary.  
 **Ladies:** 
-Dresses or jumpsuits. Recommend block or wedge heels since ceremony is on grass. 
+Dresses or jumpsuits. Recommend flats since ceremony is on sand. 

@@ -2,38 +2,67 @@
 draft: false
 title: "Activities"
 ---
-## Activity 1:
-**Resort Evening Wear** 
+## Around the hotel:
+
+**KAIMANA CLUB PASS** 
 <br>
 
-**Men:**
-Slacks (no jeans please), button-front shirts (Hawaiian, linen, or resort style), closed-toe shoes.  No jacket necessary.  
-**Ladies:** 
-Dresses or jumpsuits. Recommend block or wedge heels since ceremony is on grass. 
+In-House Experiences
 
-## Activity 2:
-**Resort Evening Wear** 
-<br>
+-Hawaiʻi cultural classes including hula, weaving, and lei making
 
-**Men:**
-Slacks (no jeans please), button-front shirts (Hawaiian, linen, or resort style), closed-toe shoes.  No jacket necessary.  
-**Ladies:** 
-Dresses or jumpsuits. Recommend block or wedge heels since ceremony is on grass. 
+-Yoga
 
-## Activity 3:
-**Resort Evening Wear** 
-<br>
+-Stand up paddle boarding
 
-**Men:**
-Slacks (no jeans please), button-front shirts (Hawaiian, linen, or resort style), closed-toe shoes.  No jacket necessary.  
-**Ladies:** 
-Dresses or jumpsuits. Recommend block or wedge heels since ceremony is on grass. 
+-Traditional lei making
 
-## Activity 4:
-**Resort Evening Wear** 
-<br>
+More info <a href="https://www.kaimana.com/">Kaimana Club Pass</a>
 
-**Men:**
-Slacks (no jeans please), button-front shirts (Hawaiian, linen, or resort style), closed-toe shoes.  No jacket necessary.  
-**Ladies:** 
-Dresses or jumpsuits. Recommend block or wedge heels since ceremony is on grass. 
+## Snorkeling:
+
+**-Kaimana Beach**
+
+**-Hanauma Bay**
+
+**-Turtle Canyon**
+
+## Surfing:
+
+**-Waikiki Beach** 
+
+## Hiking:
+
+**-Pillbox** 
+
+## Beaches:
+
+**-Kaimana Beach**
+
+**-Waikiki Beach**
+
+**-Sandy Beach**
+
+**-Pipeline** 
+
+**-Lanikai Beach**
+
+## Things to do:
+
+**-Kualoa Ranch:** See the site where Jurassic Park was filmed! Take an ATV tour or golf-cart tour to see the island upclose. 
+
+**-Pearl Harbor Memorial:** Historical site. Make sure to make reservations early!
+
+**-Battle ship Missouri Memorial**
+
+**-Waimea Valley**
+
+**-Ho’omaluhia Botanical Garden**
+
+**-Nu’uanu Pali Lookout**
+
+**-Byodo-In Temple**
+
+**-Dole Plantation**
+
+
