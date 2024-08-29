@@ -36,10 +36,11 @@
     }
   },
   "params": {
-    "background_image_2": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/travel/70.jpg",
-    "background_image_4": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/travel/75.jpg",
+    "background_image_6": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/travel/70.jpg",
+    "background_image_5": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/people/DSCF4249.jpg",
+    "background_image_4": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/people/DSCF4569.jpg",
     "background_image_3": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/people/144.jpg",
     "background_image_1": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/people/168.jpg",
-    "background_image_5": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/travel/91.jpg"
+    "background_image_2": "https://mikeliaophotography.s3.us-west-1.amazonaws.com/people/DSCF7397-Enhanced-NR.jpg"
   }
 }
