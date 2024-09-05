@@ -30,7 +30,7 @@ Currently there is a travel deal when booking through <a href="https://www.ocost
 
 **If you do not wish to stay at the Beachcomber, feel free to stay at any hotel around Waikiki!**
 
-**Another option that is right located directly on the sand is the Kaimana Beach Hotel.**
+**Another option that is located directly on the sand is the Kaimana Beach Hotel.**
 
 
 Book through <a href="https://www.kaimana.com/" target="_blank">Kaimana Beach Hotel</a>. There is a 10% discount if you sign up to their newsletter when promted during checkout.
