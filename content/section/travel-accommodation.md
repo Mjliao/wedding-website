@@ -11,20 +11,22 @@ The airport is about 30 minutes from Waikiki. If you would like to explore the i
 
 <br>
             <h1 style="margin-top:2rem;" class="section__heading">Kaimana Beach Hotel</h1>
-           <img src="https://luxelifestudios.s3.us-west-1.amazonaws.com/kaimana.jpg" alt="Wedding photo" width="100%" height="100%">
-
-<br>
-<br>
-
-**We encourage everyone stay at Kaimana Beach Hotel, since it's one of the closest options to all weekend activities and will be a fun home-base for everyone. Michael and Lauren will be staying here too!**
+           <img src="https://luxelifestudios.s3.us-west-1.amazonaws.com/beachcomber.jpg" alt="Wedding photo" width="100%" height="100%">
 
 <br>
 
-Book through <a href="https://www.kaimana.com/">Kaimana Beach Hotel</a>. We were not able to get a group discount due to our small party size. However, there is a 10% discount if you sign up to their newsletter when promted during checkout.
+**We encourage everyone stay at <a href="https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beachcomber-hotel">Oahu: OUTRIGGER Waikiki Beachcomber Hotel</a>, since it's one of the closest options to all weekend activities and will be a fun home-base for everyone. Michael and Lauren will be staying here too!**
+
+Currently there is a travel deal when booking through Costco Travel.
 
 <br>
             <h1 style="margin-top:2rem;" class="section__heading">Other Options</h1>
 
 <br>
 
-**If you do not wish to stay at the Kaimana Beach Hotel, feel free to stay at any hotel on the Waikiki Strip!**
+**If you do not wish to stay at the Beachcomber, feel free to stay at any hotel around Waikiki!**
+
+**Another option that is right located directly on the sand is the Kaimana Beach Hotel.**
+
+
+Book through <a href="https://www.kaimana.com/">Kaimana Beach Hotel</a>. There is a 10% discount if you sign up to their newsletter when promted during checkout.
