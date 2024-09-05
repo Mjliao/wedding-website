@@ -17,7 +17,7 @@ The airport is about 30 minutes from Waikiki. If you would like to explore the i
 
 <br>
 
-**We encourage everyone stay at <a href="https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beachcomber-hotel">Oahu: OUTRIGGER Waikiki Beachcomber Hotel</a>, since it's one of the closest options to all weekend activities and will be a fun home-base for everyone. Michael and Lauren will be staying here too!**
+**We encourage everyone stay at <a href="https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beachcomber-hotel" target="_blank">Oahu: OUTRIGGER Waikiki Beachcomber Hotel</a>, since it's one of the closest options to all weekend activities and will be a fun home-base for everyone. Michael and Lauren will be staying here too!**
 
 Currently there is a travel deal when booking through Costco Travel.
 
@@ -31,4 +31,4 @@ Currently there is a travel deal when booking through Costco Travel.
 **Another option that is right located directly on the sand is the Kaimana Beach Hotel.**
 
 
-Book through <a href="https://www.kaimana.com/">Kaimana Beach Hotel</a>. There is a 10% discount if you sign up to their newsletter when promted during checkout.
+Book through <a href="https://www.kaimana.com/" target="_blank">Kaimana Beach Hotel</a>. There is a 10% discount if you sign up to their newsletter when promted during checkout.
