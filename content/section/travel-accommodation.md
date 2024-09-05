@@ -21,7 +21,7 @@ The airport is about 30 minutes from Waikiki. If you would like to explore the i
 
 <br>
 
-Currently there is a travel deal when booking through <a href="https://www.ocostcotravel.com" target="_blank">Costco Travel<a>. For the destination search Waikiki and select OUTRIGGER Waikiki Beachcomber Hotel.
+Currently there is a travel deal when booking through <a href="https://www.costcotravel.com" target="_blank">Costco Travel<a>. For the destination search Waikiki and select OUTRIGGER Waikiki Beachcomber Hotel.
 
 <br>
             <h1 style="margin-top:2rem;" class="section__heading">Other Options</h1>
