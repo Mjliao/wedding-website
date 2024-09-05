@@ -10,8 +10,10 @@ title: "Travel and Accommodation"
 The airport is about 30 minutes from Waikiki. If you would like to explore the island, we recommend that you book a car rental from the airport ahead of time. Alternatively, if you just plan on staying in Waikiki, a car rental is not necessary as it will be possible to taxi to every location in the wedding.
 
 <br>
-            <h1 style="margin-top:2rem;" class="section__heading">Kaimana Beach Hotel</h1>
+            <h1 style="margin-top:2rem;" class="section__heading">OUTRIGGER Waikiki Beachcomber Hotel</h1>
            <img src="https://luxelifestudios.s3.us-west-1.amazonaws.com/beachcomber.jpg" alt="Wedding photo" width="100%" height="100%">
+
+<br>
 
 <br>
 
