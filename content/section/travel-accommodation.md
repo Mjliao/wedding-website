@@ -19,7 +19,9 @@ The airport is about 30 minutes from Waikiki. If you would like to explore the i
 
 **We encourage everyone stay at <a href="https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beachcomber-hotel" target="_blank">Oahu: OUTRIGGER Waikiki Beachcomber Hotel</a>, since it's one of the closest options to all weekend activities and will be a fun home-base for everyone. Michael and Lauren will be staying here too!**
 
-Currently there is a travel deal when booking through Costco Travel.
+<br>
+
+Currently there is a travel deal when booking through <a href="https://www.ocostcotravel.com" target="_blank">Costco Travel<a>. For the destination search Waikiki and select OUTRIGGER Waikiki Beachcomber Hotel.
 
 <br>
             <h1 style="margin-top:2rem;" class="section__heading">Other Options</h1>
