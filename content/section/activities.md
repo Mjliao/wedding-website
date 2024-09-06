@@ -2,23 +2,6 @@
 draft: false
 title: "Activities"
 ---
-## Around the hotel:
-
-**KAIMANA CLUB PASS** 
-<br>
-
-In-House Experiences
-
--Hawaiʻi cultural classes including hula, weaving, and lei making
-
--Yoga
-
--Stand up paddle boarding
-
--Traditional lei making
-
-More info <a href="https://www.kaimana.com/">Kaimana Club Pass</a>
-
 ## Snorkeling:
 
 **Kaimana Beach:** A laid-back spot perfect for snorkeling with calm, clear waters.
